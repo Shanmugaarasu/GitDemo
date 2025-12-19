@@ -17,7 +17,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 public class StandaloneTest1 {
 
 	public static void main(String[] args) throws InterruptedException {
-         // new comments added
+         // new comments added again
 		String productname = "ZARA COAT 3";
      WebDriverManager.chromedriver().setup();
      WebDriver driver = new ChromeDriver();
